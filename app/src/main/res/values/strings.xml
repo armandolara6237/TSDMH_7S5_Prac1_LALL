@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_Prac1_LALL</string>
+    <string name="p1titulo">Caratula De Datos</string>
+    <string name="p2titulo">Alumno: Lara Lopez Luis Armando</string>
+    <string name="p3titulo">Carrera: Ing En Sistemas Computacionales</string>
+    <string name="p4titulo">Grupo: 7S5</string>
+    <string name="p5titulo">Turno: Vespertino</string>
+
+</resources>
